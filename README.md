@@ -1,4 +1,4 @@
-es una aplicación móvil que permite a los usuarios descubrir, guardar y compartir lugares de interés. Desde un café oculto hasta un mirador secreto, la comunidad es la que construye el mapa de descubrimientos.
+Es una aplicación móvil que permite a los usuarios descubrir, guardar y compartir lugares de interés. Desde un café oculto hasta un mirador secreto, la comunidad es la que construye el mapa de descubrimientos.
 
 ## 🎯 Alcance del Sprint 1 (Planificación y Arquitectura)
 
