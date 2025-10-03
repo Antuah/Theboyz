@@ -1,4 +1,3 @@
-Markdown
 # 📐 Arquitectura del Proyecto: MVVM
 
 Hemos elegido el patrón de arquitectura **Model-View-ViewModel (MVVM)** para garantizar una separación clara de responsabilidades, facilitar la mantenibilidad y mejorar la capacidad de realizar pruebas unitarias y de widgets.
