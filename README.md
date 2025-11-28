@@ -38,3 +38,4 @@ Usamos el estándar de [Conventional Commits](https://www.conventionalcommits.or
 **Formato:** `<tipo>(<ámbito>): <descripción>`
 -   **Tipos:** `feat` (nueva funcionalidad), `fix` (corrección de bug), `docs` (documentación), `style` (formato), `refactor`, `test`, `chore` (tareas de mantenimiento).
 -   **Ejemplo:** `feat(auth): add email and password validation to login screen`
+# JoseAntonioDiazGarc-aRecu
